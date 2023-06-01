@@ -3,3 +3,9 @@ springdoc:
   pathsToMatch: /**/**
   swagger-ui:
     use-root-path: true
+## PostgreSQL
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/teste
+    username: postgres
+    password: 12345
