@@ -1,0 +1,5 @@
+#Spring doc
+springdoc:
+  pathsToMatch: /**/**
+  swagger-ui:
+    use-root-path: true
